@@ -26,6 +26,8 @@ input[type=submit] {
 
 .sidebar-headshot {
     max-width: 50px;
+    border: 1px solid #222;
+    padding: 3px;
 }
 
 .menu {
